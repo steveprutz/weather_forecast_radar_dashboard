@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="description" content="Weather information for the Central Texas area, focusing on Austin." />
+<meta name="keywords" content="austin,texas,weather,metro,rain,forecast" />
+<meta name="author" content="Steve Prutzman" />
+<meta http-equiv="refresh" content="400" />
+<link rel="icon" type="image/png" href="weather_sp.gif" />
+<title>the Austin (Central Texas) all-in-one weather sheet (with no ads; you should bookmark it!)</title>
+</head>
+<body style="background-color: grey; color: rgb(70, 70, 70)" />
+<!-- updated on 11:59 AM 10/8/2018 -->
+<center>
+<h2>
+<b>the Austin Metro all-in-one weather sheet</b> (refreshes every 7 min)</h2>
+<h2>
+<img src="wb_sunny_black_18x18.png"> <b><a href="http://forecast.weather.gov/MapClick.php?lat=30.353732651142025&lon=-97.73579839877635#.V1NEV_krLcs" target="_blank">NWS weather.gov</a></b>
+ ||| <img src="local_car_wash_black_18x18.png"> <a href="http://www.drivetexas.org" target="_blank">road conditions</a>
+ ||| <img src="warning_black_18x18.png"> <a href="https://www.atxfloods.com" target="_blank">atxfloods.com</a>
+ ||| <img src="line_weight_black_18x18.png"> <a href="https://hydromet.lcra.org" target="_blank">lake levels</a> /// <img src="feedback_black_18x18.png"> <a href="https://docs.google.com/forms/d/e/1FAIpQLSe2z-mM6DNQYyEd1XPdY-UKTJBP8l59lzJxO_qukfoBD0OuPQ/viewform?usp=sf_link" target="_blank">Feedback, question or comment?</a>
+</h2>
+
+<a href="https://www.kxan.com/weather" target="_blank"><img src="https://media.kxan.com/nxs-kxantv-media-us-east-1/weather/radar/dma_loop1.jpg" width="550" title="KXAN" alt="KXAN"></a>
+
+<a href="http://spectrumlocalnews.com/tx/austin/weather" target="_blank"><img src="http://images.twcnews.com/tx/weather/CTX_Satrad-large.gif" width="600" title="Spectrum News Austin (TWC)" alt="Spectrum News"></a>
+
+<a href="http://spectrumlocalnews.com/tx/austin/weather" target="_blank"><img src="http://images.twcnews.com/tx/weather/SATRAD_SCUS-large.gif" width="550" title="Spectrum News Austin (TWC)" alt="Spectrum News"></a>
+
+<br />
+
+<a href="http://www.kvue.com/weather/" target="_blank"><img src="http://cdn.tegna-media.com/kvue/weather/7DAY880X495.jpg" width="550" title="KVUE" alt="KVUE"></a>
+
+<a href="http://www.kvue.com/weather/allergy-forecast" target="_blank"><img src="http://cdn.tegna-media.com/kvue/weather/allergy16x9.jpg" title="KVUE" alt="KVUE" height="250"> <img src="http://cdn.tegna-media.com/kvue/weather/allergy_forecast16x9.jpg" height="180" title="KVUE" alt="KVUE"></a>
+
+<a href="http://txforestservice.tamu.edu/Burnbans" target="_blank"><img src="http://tfsfrp.tamu.edu/wildfires/decban.png" width="200" title="TAMU Forest Service" alt="TAMUFS"></a>
+
+<h3>
+hour-by-hour forecasts: <a href="https://www.accuweather.com/en/us/austin-tx/78701/hourly-weather-forecast/351193?partner=abp_fox_austin&unit=f">AccuWeather</a> ||| <a href="http://kxan.com/weather/forecast">KXAN</a> ||| <a href="http://spectrumlocalnews.com/tx/austin/weather">Spectrum</a> ||| <a href="http://www.statesman.com/weather">Statesman</a>
+</h3>
+
+<p style="font-size:10px">Disclaimer: I do not own the original rights on any of the images or graphics. All works are copyright © their respective owners. All temperatures in °F units.</p></center>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5371149-1', 'auto');
+  ga('send', 'pageview');
+</script>
+</html>
