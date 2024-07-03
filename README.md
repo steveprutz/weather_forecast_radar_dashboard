@@ -1,8 +1,8 @@
-# austin_texas_weather
+# radar_weather_dashboard (formerly austin_texas_weather)
 
-the Austin (Central Texas) all-in-one weather dashboard
+an all-in-one radar and weather forecast dashboard
 
-This is merely a web page with hyperlinks to useful weather websites. Additionally, shows images and animated GIFs of local radar.
+Shows images and animated GIFs of local radar, all on one page.
 
 ![atxradar](atxradar.png)
 
