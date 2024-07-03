@@ -6,4 +6,6 @@ Shows images and animated GIFs of local radar, all on one page.
 
 ![atxradar](atxradar.png)
 
+![wx](wx.png)
+
 ![icon](weather_sp.gif)
